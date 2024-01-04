@@ -11,6 +11,9 @@ fill . env file
 
 fill fetchTVdata-toGsheet-OldM with the right information to parse the right indicator and right timeframe
 
+npm install
+
 run  command
+
 
 node fetchTVdata-toGsheet-OldM.js
