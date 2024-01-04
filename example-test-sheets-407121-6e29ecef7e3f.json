@@ -1,0 +1,14 @@
+
+{
+  "type": "service_account",
+  "project_id": "test-sheets-example",
+  "private_key_id": "6e29ecef7e3fab5example21d793471615b6b8e85e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANexamplekiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDOvy04Lgi0u6hu\n90WXHlSVYsA7ThAng+AT6exampleqoxnAQvb7dDwDJ8dBfwoFuRSD89\nFhnbvGhnHLsytnf+8KtQ7yC/fPMfgpbq+ut63R+nsUcomcXmBKN+gX3gxfqCEuIi\nxe4qqTi7cyf9GajD=\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-sheeet@test-sheets-exampleserviceaccount.com",
+  "client_id": "101838042example623830165",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-sheeet%40test-sheets-407121.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
